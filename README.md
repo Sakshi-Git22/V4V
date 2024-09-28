@@ -1,8 +1,7 @@
 # V4V E-Selling Website
 <table>
 <tr>
-<td>
-  V4V is an E-commerce website which primarily focus on selling the products by locals vendors and small business owners who cannot bear the cost of maintaing the website and are not familiar with the technologies to operate the website. 
+<td> 
 </td>
 </tr>
 </table>
@@ -44,17 +43,4 @@ The header section contains zip code,shop,contact and sign in buttons. It also c
 ## To-do
 - Complete the functionality of Zip Code.
 - Implement a payment gateway so that user can get through the payment process easily.
-
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
-
-<p align="center">
-<a href= "https://github.com/geekyamitesh"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/geekyamitesh/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/geekyamitesh"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://geekyamitesh.github.io/amitesh/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-</p>
-
-
-</p>
 
