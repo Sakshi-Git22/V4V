@@ -44,3 +44,5 @@ The header section contains zip code,shop,contact and sign in buttons. It also c
 - Complete the functionality of Zip Code.
 - Implement a payment gateway so that user can get through the payment process easily.
 
+### Get in touch
+Feel free to reach out to me at Linkedin https://www.linkedin.com/in/techiesakshi/techiesakshi
